@@ -1,7 +1,8 @@
 body {
-  font-size: 1rem;
-  background:url('https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/7afa33bc6914e8716c674062c8782b51.jpg');
-}
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+          "Helvetica Neue", Arial, sans-serif;
+        background: #333;
+      }
 
 a {
   text-decoration: none;
